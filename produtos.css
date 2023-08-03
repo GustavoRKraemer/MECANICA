@@ -5,7 +5,7 @@ header {
 
 .caixa {
 	position: relative;
-	width: 940px;
+	width: 840px;
 	margin: 0 auto;
 }
 
@@ -37,6 +37,9 @@ nav a:hover {
 	width: 940px;
 	margin: 0 auto;
 	padding: 50px 0;
+}
+.prodimg {
+	width: 150px;
 }
 
 .produtos li {
